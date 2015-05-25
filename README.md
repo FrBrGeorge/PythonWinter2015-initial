@@ -3,4 +3,5 @@ Initial dummy repo.
 
 It's really dummy!
 
-modifed by dk
+
+Отредактировал Дмитрий Казначеев
