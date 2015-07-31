@@ -2,3 +2,6 @@
 Initial dummy repo.
 
 It's really dummy!
+
+
+Отредактировал Дмитрий Казначеев
